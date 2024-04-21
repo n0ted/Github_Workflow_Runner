@@ -1,3 +1,3 @@
-<img src="https://raw.githubusercontent.com/n0ted/n0ted/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/n0ted/Actions_Test/blob/output/snake.svg" alt="Snake animation" />
 
 ###
